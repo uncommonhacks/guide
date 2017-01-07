@@ -235,7 +235,7 @@ recommend you bring a sleeping bag and/or blanket.
 
 When you’re almost done with your project, make sure to finalize your
 submission on [Devpost](https://uncommonhacks2017.devpost.com/) and click submit before the deadline (12pm on
-Sunday)! You can select which of the theme and sponsor prizes you want
+Sunday)! Devpost will be the way we look and submit projects, so it is key that you register for a team otherwise your project will not be judged. You can select which of the theme and sponsor prizes you want
 your project to be reviewed for.
 
 When time is up, you must stop hacking. However, you’re allowed to debug
