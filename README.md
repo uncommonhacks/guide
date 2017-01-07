@@ -234,7 +234,7 @@ recommend you bring a sleeping bag and/or blanket.
 ## Finishing your Project
 
 When you’re almost done with your project, make sure to finalize your
-submission on Devpost and click submit before the deadline (12pm on
+submission on [Devpost](https://uncommonhacks2017.devpost.com/) and click submit before the deadline (12pm on
 Sunday)! You can select which of the theme and sponsor prizes you want
 your project to be reviewed for.
 
