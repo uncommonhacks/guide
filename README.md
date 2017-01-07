@@ -89,7 +89,7 @@ the environment we want to sustain. Chances are, the person next to you
 may have had the same problem you had a week ago! Know that hackathons
 are learning experiences for all.
 
-![Cool](media/image1.png){ width: 100px; }
+![Cool](media/image1.png)
 
 ## Safeness
 
