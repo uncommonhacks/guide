@@ -1,4 +1,4 @@
-We cannot wait for you to attend Uncommon Hacks January 14-15 at the
+We cannot wait for you to attend Uncommon Hacks February 10-11 at the
 Polsky Exchange in Chicago, Illinois. We hope you make friends, learn,
 meme out, but most importantly, have fun ᖍ(ツ)ᖌ.
 
@@ -25,7 +25,7 @@ Here are some common choices of things to bring to a hackathon.
 -   Extra space for swag
     -   You will be getting T-Shirts and other stuff, so come prepared with extra space
 -   Warm clothes
-    -   It will be cold in Chicago ([estimated high of around 25ºF/-5ºC](https://darksky.net/details/41.7996,-87.59/2017-1-14/us12/en)), so if you’re not coming from the area be prepared for cold and wind (and possibly snow)!
+    -   It will be cold in Chicago (estimated high of around 25ºF/-5ºC), so if you’re not coming from the area be prepared for cold and wind (and possibly snow)!
 
 ## Getting There
 
@@ -50,32 +50,34 @@ for help.
 Tenative Schedule
 =================
 
-See [uncommonhacks.com/dayof](http://uncommonhacks.com/dayof) for the
+See [hack.uncommonhacks.com](https://hack.uncommonhacks.com) for the
 latest info.
 
-**SATURDAY JANUARY 14th**
+**SATURDAY FEBRUARY 10th**
 
 * 9:00 AM – Registration Starts
 * 10:00 AM – Breakfast
-* 10:00 AM – Interacting With Sponsors
 * 10:30 AM – Team Formation
 * 11:30 AM – Opening Ceremony
 * 12:00 PM – Hacking Starts
 * 1:00 PM – Lunch
+* 2:00 PM - Workshops
+* 5:00 PM - Activity
 * 7:00 PM – Dinner
 
-**SUNDAY JANUARY 15th**
+**SUNDAY FEBRUARY 11th**
 
 * 12:00 AM – Midnight Snack
+* 12:30 AM – Cup Stacking
 * 1:00 AM – Sleeping
-* 4:00 AM – Weird Snack
+* 2:00 AM – Soylent Pong
 * 9:00 AM – Breakfast
-* 12:00 PM – Hacking OVER
+* 12:00 PM – Hacking Ends
 * 12:00 PM – Lunch
-* 12:30 PM – EXPO
-* 2:30 PM – Chosen groups present to everyone + Awards
+* 1:00 PM – Presentations
 * 3:00 PM – Awards
-* 3:30 PM – HACKATHON OVER
+* 4:00 PM – Event ends
+
 
 # At the Event
 
@@ -136,7 +138,7 @@ have to build it entirely during Uncommon Hacks. We’ll have a number of
 themed prizes, such as “Most Uncommon” (see the Devpost site for the
 full list), which you might use as inspiration for your project. You
 also can look at [last year's
-submissions](https://uncommonhacksspr16.devpost.com/submissions) for
+submissions](https://uncommonhacks2017.devpost.com/submissions) for
 some examples of what kinds of projects people have worked on. We’ll
 also have the [MLH Hardware Lab](https://hardware.mlh.io/) (link will
 be live during the event), which will have many devices that you can use for your project!
@@ -177,7 +179,7 @@ to do these first steps. Check out the Additional Resources section for
 some getting started guides for different environments.
 
 When you have a free moment, it’s also wise to draft your submission to
-[Devpost](https://uncommonhacks2017.devpost.com/), which is the site
+Devpost, which is the site
 we use to track submissions. Everyone on your team should make an
 account, and you can add multiple people to a project. Most other
 hackathons also use Devpost for submissions, so you’ll be able to build
@@ -234,7 +236,7 @@ recommend you bring a sleeping bag and/or blanket.
 ## Finishing your Project
 
 When you’re almost done with your project, make sure to finalize your
-submission on [Devpost](https://uncommonhacks2017.devpost.com/) and click submit before the deadline (12pm on
+submission on Devpost and click submit before the deadline (12pm on
 Sunday)! Devpost will be the way we look and submit projects, so it is key that you register for a team otherwise your project will not be judged. You can select which of the theme and sponsor prizes you want
 your project to be reviewed for.
 
