@@ -17,7 +17,7 @@ Here are some common choices of things to bring to a hackathon.
     -   Changing clothes is an awesome feeling if you’re into it
     -   We also recommend bringing a hoodie incase it gets cold
 -   Blanket / sleeping bag
-    -   We will be providing sleeping mattresses, but it might get cold, especially since it’s January :(.
+    -   We will be providing sleeping mattresses, but it might get cold, especially since it’s February :(.
 -   Toiletries
     -   We will have toiletries, but we recommend bringing your own toothbrush and paste, face wash if you use it, dry shampoo, tampons, etc.
 -   Headphones
@@ -289,7 +289,7 @@ Necessities](https://www.sparkpost.com/blog/hackathon-necessities/)
 
 ## Technical Resources
 
-Once you have an idea for a project, you’re going to figure out how to build it. Of course, Google, is one of the best ways to figure out how to build your project. For example, if you would like to build a website, you can google “How to Build a Website” or “HTML/CSS/Javascript.” Some great tutorials for beginning new topics are [CodeAcademy](https://www.codecademy.com/), [Tutorials Point](https://www.tutorialspoint.com/tutorialslibrary.htm) if you know exactly what language you’re using, or [Treehouse](https://teamtreehouse.com/) if you like learning with videos. There are also many MOOC’s (Massive Online Open Courses) online. Once you know what stack you will be using, you can dive in by researching tutorials online for what you’re building online. Ensure that you are dividing up the work evenly within your team. Our advice is to take it step by step - write one piece of code, see if it works, then build on the next part. Debugging is annoying, so tread carefully!
+Once you have an idea for a project, you’re going to figure out how to build it. Of course, Google is one of the best ways to figure out how to build your project. For example, if you would like to build a website, you can google “How to Build a Website” or “HTML/CSS/Javascript.” Some great tutorials for beginning new topics are [CodeAcademy](https://www.codecademy.com/), [Tutorials Point](https://www.tutorialspoint.com/tutorialslibrary.htm) if you know exactly what language you’re using, or [Treehouse](https://teamtreehouse.com/) if you like learning with videos. [MDN](https://developer.mozilla.org/en-US/) is a fantastic resource for web development and browser extensions. There are also many MOOC’s (Massive Online Open Courses) online. Once you know what stack you will be using, you can dive in by researching tutorials online for what you’re building online. Ensure that you are dividing up the work evenly within your team. Our advice is to take it step by step - write one piece of code, see if it works, then build on the next part. Debugging is annoying, so tread carefully!
 
 # About This Guide
 
