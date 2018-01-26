@@ -17,7 +17,7 @@ Here are some common choices of things to bring to a hackathon.
     -   Changing clothes is an awesome feeling if you’re into it
     -   We also recommend bringing a hoodie incase it gets cold
 -   Blanket / sleeping bag
-    -   We will be providing sleeping mattresses, but it might get cold, especially since it’s February :(.
+    -   We will be providing a room for sleeping, but it might get cold, especially since it’s February :(.
 -   Toiletries
     -   We will have toiletries, but we recommend bringing your own toothbrush and paste, face wash if you use it, dry shampoo, tampons, etc.
 -   Headphones
@@ -229,7 +229,7 @@ Hackathons have a reputation for uninterrupted work with little sleep,
 but it’s important that you have energy for the entire event and don’t
 burn out. You *should* take some time to get a decent night’s sleep.
 
-At Uncommon Hacks, we’ll have a large room with air mattresses for
+At Uncommon Hacks, we’ll have a large room for
 sleeping. We’ll also have earplugs (highly recommended), and would
 recommend you bring a sleeping bag and/or blanket.
 
