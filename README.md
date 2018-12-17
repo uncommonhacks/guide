@@ -135,10 +135,8 @@ have to build it entirely during Uncommon Hacks. We’ll have a number of
 themed prizes, such as “Most Uncommon” (see the Devpost site for the
 full list), which you might use as inspiration for your project. You
 also can look at [last year's
-submissions](https://uncommonhacks2017.devpost.com/submissions) for
-some examples of what kinds of projects people have worked on. We’ll
-also have the [MLH Hardware Lab](https://hardware.mlh.io/) (link will
-be live during the event), which will have many devices that you can use for your project!
+submissions](https://uncommonhacks2018.devpost.com/submissions) for
+some examples of what kinds of projects people have worked on.
 
 It can be hard to decide on an idea, especially if you’re working with
 teammates you’ve just met. Have fun brainstorming, and you can approach
