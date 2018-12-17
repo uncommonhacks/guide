@@ -50,36 +50,31 @@ for help.
 Tenative Schedule
 =================
 
-See [hack.uncommonhacks.com](https://hack.uncommonhacks.com) for the
+See [2k19.uncommonhacks.com](https://2k19.uncommonhacks.com) for the
 latest info.
 
-**SATURDAY FEBRUARY 10th**
+**SATURDAY FEBRUARY 16th**
 
 * 9:00 AM – Registration starts
 * 10:00 AM – Breakfast
+* 10:00 AM - Team Formation I
 * 11:00 AM – Interacting with sponsors
-* 11:00 AM – Team formation
 * 11:30 AM – Opening ceremony
 * 12:00 PM – Hacking starts
-* 12:00 PM – Intro to Hackathons Workshop (hosted by JP Morgan)
-* 12:30 PM – Team formation
-* 5:00 PM – Mini-event
+* 12:30 PM – Team formation II
 * 7:00 PM – Dinner
-* 8:00 PM – Cup stacking
-* 10:00 PM – Mini-event 👻
 
-**SUNDAY FEBRUARY 11th**
+Be ready for fun suprise mini-events happening throughout the event ;)
+
+**SUNDAY FEBRUARY 17th**
 
 * 12:00 AM – Midnight Snack
-* 1:00 AM – Soylent Pong
-* 7:30 AM – Morning yoga
 * 9:00 AM – Breakfast
 * 12:00 PM – Hacking ends
 * 1:00 PM – Expo
 * 3:00 PM – Closing ceremony
 * 3:45 PM – Prizes are awarded
 * 4:00 PM – Event ends
-
 
 # At the Event
 
