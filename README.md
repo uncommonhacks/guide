@@ -1,6 +1,6 @@
-We cannot wait for you to attend Uncommon Hacks February 10-11 at the
-Polsky Exchange in Chicago, Illinois. We hope you make friends, learn,
-meme out, but most importantly, have fun ᖍ(ツ)ᖌ.
+We cannot wait for you to attend Uncommon Hacks February 16-17 at the Polsky
+Exchange in Chicago, Illinois. We hope you make friends, learn, meme out, but
+most importantly, have fun ᖍ(ツ)ᖌ.
 
 # Before the Hackathon
 
