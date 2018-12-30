@@ -50,7 +50,7 @@ for help.
 Tenative Schedule
 =================
 
-See [2k19.uncommonhacks.com](https://2k19.uncommonhacks.com) for the
+See [uncommonhacks.com](https://uncommonhacks.com) for the
 latest info.
 
 **SATURDAY FEBRUARY 16th**
