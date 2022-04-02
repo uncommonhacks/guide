@@ -1,267 +1,172 @@
-We cannot wait for you to attend Uncommon Hacks February 15-16 at the Polsky
-Exchange in Chicago, Illinois. We hope you make friends, learn, meme out, but
-most importantly, have fun ᖍ(ツ)ᖌ.
+We cannot wait for you to attend Uncommon Hacks April 1-3 at the Crerar Library! We hope you make friends, learn, meme out, but most importantly, have fun ᖍ(ツ)ᖌ.
 
 # Before the Hackathon
 
 ## What to Bring
 
-Here are some common choices of things to bring to a hackathon.
+Here are some common choices of things to bring to a hackathon if you're attending in-person.
 
 -   Computer
     -   Or any other hardware you are interested in using
 -   Chargers
     -   Phone Charger
     -   Computer Charger
--   Spare clothes
-    -   Changing clothes is an awesome feeling if you’re into it
-    -   We also recommend bringing a hoodie incase it gets cold
--   Blanket / sleeping bag
-    -   We will be providing a room for sleeping, but it might get cold, especially since it’s February :(.
--   Toiletries
-    -   We will have toiletries, but we recommend bringing your own toothbrush and paste, face wash if you use it, dry shampoo, tampons, etc.
 -   Headphones
     -   Sometimes, you gotta jam out
 -   Extra space for swag
     -   You will be getting T-Shirts and other stuff, so come prepared with extra space
--   Warm clothes
-    -   It will be cold in Chicago (estimated high of around 25ºF/-5ºC), so if you’re not coming from the area be prepared for cold and wind (and possibly snow)!
-
-## Getting There
-
-See directions.md for directions.
 
 ## Additional Comments
 
-If at all possible, try to arrange your schoolwork and schedule so you
-won’t have to be worrying about homework over the weekend. You’ll be
-able to get the most out of the event, and hopefully will be
-re-energized by taking a break from your schoolwork!
+If at all possible, try to arrange your schoolwork and schedule so you won’t have to be worrying about homework over the weekend. You’ll be able to get the most out of the event, and hopefully will be re-energized by taking a break from your schoolwork!
 
-A week or so before Uncommon Hacks, you’ll get an invite to our Slack
-group. If you haven’t used [Slack](https://slack.com/) before, it’s a
-messaging app for teams that we will use to distribute announcements
-during the event and facilitate communication. Once you join, you’ll be
-able to talk to other hackers to look for teammates or find people to
-carpool with. During the event, Slack will be the primary way we make
-announcements, and will also be used to connect with mentors and others
-for help.
+# Gather
 
-Tenative Schedule
-=================
+This year Uncommon Hacks will operate in a hybrid manner. All UChicago students are encouraged to come in-person to the third floor of the Crerar library. All other participants will have access to our Gather platform. Gather is a virtual meeting space where you can interact with other participants, judges, and workshop hosts in a two-dimensional space (kind-of like a top-down RPG). Every in-person event will have a corresponding virtual location, and our conference cameras and AV system will provide a bridge between the two worlds. In other words -- for better or worse, we're embracing the hyperverse! (that rhymed) We understand that this is a bit of a weird format, but we believe that it's the best solution to providing a good experience for everyone involved. If you have any questions or problems, never hesitate to reach out to one of our team members over Discord!
 
-See [uncommonhacks.com](https://uncommonhacks.com) for the
+# Tenative Schedule
+
+See [uncommonhacks.com](https://hacks2022.uncommonhacks.com/) for the
 latest info.
 
-**SATURDAY FEBRUARY 16th**
+**Friday, April 1st**
+ * [5-6pm] CSS Still Life w/ Nick Briz
+ * [6-6:30pm] Dinner (Papa John's)
+ * [6:30-7:30pm] Intro to Twine Game w/ Ashlyn Sparrow
+ * [7:30-8:30pm] Tech Interviewing w/ Fatima TajLocation: JCL 298; Workshop Room 1
+ * [8:30-9pm] Social Time
 
-* 9:00 AM – Registration starts
-* 10:00 AM – Breakfast
-* 10:00 AM - Team Formation I
-* 11:00 AM – Interacting with sponsors
-* 11:30 AM – Opening ceremony
-* 12:00 PM – Hacking starts
-* 12:30 PM – Team formation II
-* 7:00 PM – Dinner
-
-Be ready for fun suprise mini-events happening throughout the event ;)
+**Saturday, April 3rd**
+ * [10:30-11am] Check-in; Swag Distribution; Sponsorship Fair with IMC Trading
+ * [11-12pm] Spotify ML
+ * [12-12:30pm] Lunch (Potbelly)
+ * [12:30-1pm] Team Formation
+ * [1-1:30pm] Opening Ceremony and Hacking Starts!
+ * [2-3pm] Intro to Computational Art w/ Tiffany Funk
+ * [3-4pm] Programmatic Music w/ Richard Whaling
+ * [4-5pm] How Social Factors Influence Video Games w/ Kyle Nolla
+ * [5-6pm] Board Game Design w/ Ash Sparrow
+ * [5-6pm] Creative Coding w/ Marc Downie
+ * [6-7pm] Maritime Archeology w/ Douglas Inglis
+ * [6:30-7:30pm] Dinner (Panda Express)
+ * [7:00-7:30pm] MLH Event: Slideshow Karaoke
+ * [8:30-9:30pm] Mystery Event
 
 **SUNDAY FEBRUARY 17th**
 
-* 12:00 AM – Midnight Snack
-* 9:00 AM – Breakfast
-* 12:00 PM – Hacking ends
-* 1:00 PM – Expo
-* 3:00 PM – Closing ceremony
-* 3:45 PM – Prizes are awarded
-* 4:00 PM – Event ends
+* [9:30am] Doors open
+* [10-10:30am] Breakfast (Einstein's)
+* [11-11:30am] Pitching Workshop
+* [11:30-12pm] Hacker Peer Feedback
+* [12:30-1pm] Lunch (Jarabe -- Mexican street food!)
+* [2pm] Hacking ends
+* [2:30-4pm] Project expo/judging
+* [4:30-5pm] Closing ceremony/awards
+* [5:30pm] Doors close
 
 # At the Event
 
 ## Staying Cool
 
-In a hackathon environment, surrounded by people who hack away,
-seemingly intensely focused, it is easy to feel intimidated. If it is
-your first time at a hackathon, or your 100th time at a hackathon, you
-may feel that everyone around you is more talented than you. That’s not
-the environment we want to sustain. Chances are, the person next to you
-may have had the same problem you had a week ago! Know that hackathons
-are learning experiences for all.
+In a hackathon environment, surrounded by people who hack away, seemingly intensely focused, it is easy to feel intimidated. If it is your first time at a hackathon, or your 100th time at a hackathon, you may feel that everyone around you is more talented than you. That’s not the environment we want to sustain. Chances are, the person next to you may have had the same problem you had a week ago! Know that hackathons are learning experiences for all.
 
 ![Cool](media/image1.png)
 
 ## Safeness
 
-If ever at any point you should feel unsafe at the event, PLEASE come up
-to a team member, message us on Slack, or contact the MLH
-representative. We will handle the situation accordingly.
+If ever at any point you should feel unsafe at the event, PLEASE come up to a team member, message us on Discord, or contact the MLH representative. We will handle the situation accordingly.
 
-## Getting Settled
+## Forming a Team
 
-When you first arrive at the Polsky Exchange, there will be a short
-check-in. You’ll receive a n30n wristband to denote yourself as a
-hacker, a name tag, a dope t-shirt, a slick sticker, and important
-information for the day of the event.
+Many people choose to work with teams at hackathons. Some people may already have a team going into the event: from school, from being meme friends online, etc. But do not worry if you do not have a team at the event! We will have a team formation activity at the event for you to find others to work with who have the same interests as you.
 
-We have a number of sponsors who provide support for this event. When
-you’ll arrive, you’ll have a chance to talk with our sponsors about what
-they do. Sponsors often come to recruit for jobs and internships, let
-you know about their products for developers, and might sponsor a prize
-or two.
-
-### Forming a Team
-
-Many people choose to work with teams at hackathons. Some people may
-already have a team going into the event: from school, from being meme
-friends online, etc. But do not worry if you do not have a team at the
-event! We will have a team formation activity at the event for you to
-find others to work with who have the same technological interests or
-same meme interests as you.
-
-More importantly, have no fear if you think you’re not good enough to
-work on a team. There is always something for everyone to do on a
-hackathon team, whether it be design, the front-end work, the back-end
-work, connecting the circuits for the hardware device. Just make it
-known that you are willing to work and to learn, and you should be
-great.
+More importantly, have no fear if you think you’re not good enough to work on a team. There is always something for everyone to do, whether it be design, the front-end work, the back-end work, connecting the circuits for the hardware device, making art, music, and so on. Just make it known that you are willing to work and to learn, and you should be great.
 
 It’s also totally fine to work on a project by yourself.
 
-### Deciding on an idea
+## Deciding on an idea
 
-When you have a team, start thinking about what you might want to build.
-You can build basically anything you want, with the main rule being you
-have to build it entirely during Uncommon Hacks. We’ll have a number of
-themed prizes, such as “Most Uncommon” (see the Devpost site for the
-full list), which you might use as inspiration for your project. You
-also can look at [last year's
-submissions](https://uncommonhacks2018.devpost.com/submissions) for
-some examples of what kinds of projects people have worked on.
+When you have a team, start thinking about what you might want to build. You can build basically anything you want, with the main rule being you have to build it entirely during Uncommon Hacks. This year, we also have four project tracks. Although you're not required to build for one of them, doing so will give you the chance to win one of the track prizes, and to get support from one of track-themed workshops.
 
-It can be hard to decide on an idea, especially if you’re working with
-teammates you’ve just met. Have fun brainstorming, and you can approach
-finding an idea from either the perspective of what you are interested
-in, or what technologies you are interested in learning.
+It can be hard to decide on an idea, especially if you’re working with teammates you’ve just met. Have fun brainstorming, and you can approach finding an idea from either the perspective of what you are interested in, or what technologies you are interested in learning. Here is some more information about each track in the next section.
 
-Don’t feel like your project has to be the next big thing or something
-you’d use every day. **We encourage you to make something creative and
-fun and possibly totally useless!** What *is* important is that you have
-a good time building it and learn in the process.
+Don’t feel like your project has to be the next big thing or something you’d use every day. **We encourage you to make something creative and fun and possibly totally useless!** What *is* important is that you have a good time building it and learn in the process.
+
+## The Tracks
+
+### Game Design
+
+When it comes to making games, there are really three main approaches:
+
+#### 2D Language Frameworks
+
+When you don't think that your game will require super advanced graphics, and you're comfortable sticking to 2D, we would recommend using a game design library in your favorite language. Although this will mean that you have to write a bit more code (you won't be able to take advantage of the built-in physics or dialogue systems that are offered by game development engines), there is also a lot less of a learning curve, and you can get to work immediately. And, in the end, you will be single-handedly responsible for every aspect of how your game runs, which is a really nice feeling.
+
+Framework recommendations: Pyxel for Python, Love2D for Lua, Kaboom.js for Javascript (if you want it to run in the browser).
+
+#### Dynamic Websites
+
+You may have a very specific type of game in mind: something that runs online and is very text-heavy, like [Candy Box 2](https://candybox2.github.io/) or [A Dark Room](https://adarkroom.doublespeakgames.com/). In that case, it's best to work with web technologies, since they make it much easier to display and organize text. Specifically, you'll want to leverage a Javascript framework, which allows for rapidly changing HTML in a way that would be necessary for a game. Please consult the Web Development section for more information about this.
+
+#### 3D Game Engines
+
+If you want to make something more complicated, or something in three dimensions, then you may want to leverage the tools that game engines provide. These are full-fledged programs that handle everything from creating your game world to handling menus, UIs, animations, and so on. But the downside is that there is a lot to learn, especially for a hackathon.
+
+Game Engine recommendations: Unity (for 3D), Godot (for 2D).
+
+### Web Development
+
+Chances are, if you want to make a web project, you'll want a website that is highly dynamic, which means that it changes depending on user data. Although you can accomplish this with raw Javascript, this is much easier using a variety of "Javascript frameworks" that the developer community has created over the years. These allow you to shift from an 'imperative' model (writing code like: "when this happens, change this element like so") to a 'declarative' model (writing code like: "this element has these properties, and renders them like so". The framework handles changing the element so you don't have to do it manually).
+
+The industry-standard for these frameworks is called React, but it may be a bit complicated to learn for this hackathon. If you don't have have prior web dev experience, Svelte may be a better choice. You can code with both of these frameworks right in the browser on CodeSandbox.io. And, finally, if you just want to quickly play around with CSS or Javascript, Nick Briz's netnetstudio is really nice to use!
+
+### Data Analytics
+
+If you love working with data, then you're welcome to create a prjoect in the Data Analytics category. There's really three steps to doing this: first, decide what dataset(s) you'd like to focus on. There are many online resources for finding interesting ones, like r/datasets or Kaggle datasets.
+
+Next, figure out how you're going to process it. The two standard workflows are with Python and Jupyter Notebook (this is probably easier) or with R. These two languages have very rich ecosystems that allow you to transform your data in any way imaginable.
+
+Finally, prepare a visualization of your data. Although the two processing workflows mentioned above have various tools for visualizing data with charts and graphs, these are rarely interactive, and hard to pull out into a standalone project. So you're probably going to want to use a different tool, and Javascript is really good for this. D3.js is the go-to framework for this -- it also has tools for constructing graphs and charts, but because these are in javascript, you can embed them into a website, and, crucially, add user interaction. You may also want to look into three.js, which is a fantastic Javascript library for creating three-dimensional graphics and visualizations.
+
+### Programmatic Art
+
+Finally, if you're interested in making a visual, dynamic project, but don't think it falls into the previous three categories, you may be interested in making a piece of programmatic art. You can think of this type of project as a video game but with less user input, and more emphasis on creativity and audio-visual presentation. You may make a pulsating geometric art-piece that's synced up to some music; or a creative three-dimensional tribute to your favorite band (like this: https://www.aquarium.ru/en). As in the case of Data Analytics, Javascript may be a good choice here, due to how easy it is to handle user interactivity with it, and just how large its community is. I will once again recommend Three.js as an awesome tool for creating three-dimensional graphics, and for two-dimensional art, P5.js is worth checking out.
 
 ## Opening Ceremonies
 
-Once you’ve had some time to get settled, we’ll officially start the
-event with the opening ceremonies. Some of our sponsors will give a short
-presentation about what they do. You’ll also hear from our partner
-[Major League Hacking](http://mlh.io), which helps organize over 200
-student hackathons each year and provides organizational support. We’ll
-also go over the basic rules for the event, and provide an overview of the next 24 hours!
+Once you’ve had some time to get settled, we’ll officially start the event with the opening ceremonies. Some of our sponsors will give a short presentation about what they do. You’ll also hear from our partner [Major League Hacking](http://mlh.io), which helps organize hackathons across the country and provides organizational support. We’ll also go over the basic rules for the event, and provide an overview of the next 24 hours!
 
 ## Working on your Project
 
-After opening ceremonies, it’ll be time to jump in and get working!
-You’ll have 24 hours to make your project.
+After opening ceremonies, it’ll be time to jump in and get working! You’ll have 24 hours to make your project.
 
 ### Starting your Project
 
-Once you’ve settled on an idea and are ready to dive in, one the first
-barriers you might run into is setting up your environment and doing all
-the
-[yak-shaving](http://www.hanselman.com/blog/YakShavingDefinedIllGetThatDoneAsSoonAsIShaveThisYak.aspx)
-necessary to start writing code. This can seem difficult, and it can be
-tricky to get everyone on your team on the same page, but it’s important
-to do these first steps. Check out the Additional Resources section for
-some getting started guides for different environments.
+Once you’ve settled on an idea and are ready to dive in, one the first barriers you might run into is setting up your environment and doing all the [yak-shaving](http://www.hanselman.com/blog/YakShavingDefinedIllGetThatDoneAsSoonAsIShaveThisYak.aspx) necessary to start writing code. This can seem difficult, and it can be tricky to get everyone on your team on the same page, but it’s important to do these first steps. Check out the Additional Resources section for some getting started guides for different environments.
 
-When you have a free moment, it’s also wise to draft your submission to
-Devpost, which is the site
-we use to track submissions. Everyone on your team should make an
-account, and you can add multiple people to a project. Most other
-hackathons also use Devpost for submissions, so you’ll be able to build
-a portfolio with the projects you make!
+When you have a free moment, it’s also wise to draft your submission to Devpost, which is the site we use to track submissions. Everyone on your team should make an account, and you can add multiple people to a project. Most other hackathons also use Devpost for submissions, so you’ll be able to build a portfolio with the projects you make!
 
 ### Asking for Help
 
-There’ll be a point where you get stuck on something when working on
-your project, whether it be a technical roadblock, a decision you don’t
-have enough information to make, or a question about best practices. We
-will have a few mentors during the event who will be around to answer
-any technical questions, and there are also are probably other hackers
-who might be familiar with what you are working with. Just send a
-message to the *technical\_help* channel on Slack, and someone should
-get back to you!
+There’ll be a point where you get stuck on something when working on your project, whether it be a technical roadblock, a decision you don’t have enough information to make, or a question about best practices. UH team members will always be happy to answer any technical questions, and there are also are probably other hackers who might be familiar with what you are working with. Just send a message to the `ask-tech-help` channel on Discord and someone should get back to you!
 
-If you have a question about the event for the Uncommon Hacks team (such
-as a scheduling questions, rule clarifications, etc.), send a message to
-the *questions* channel. There’s a good chance someone else has the same
-question, and this lets anyone on our team respond. You can also message
-any of the team members directly on Slack if necessary.
-
-## Additional Events
-
-At Uncommon Hacks, we’ll have numerous fun events, such as workshops
-done by students, Soylent Pong, SOLO cup stacking, and much more. These
-workshops are meant to be fun learning experiences that serve as a break
-from your project. And yes, Soylent Pong is what it sounds like - [beer
-pong](https://www.bpong.com/beer-pong-rules/), a common college
-drinking game, but with [Soylent](https://www.soylent.com/), the meal
-replacement drink. We will also have water available.
-
-We want the other events to be a surprise… so you will not find out
-until the day of ;).
+If you have a question about the event for the Uncommon Hacks team (such as a scheduling questions, rule clarifications, etc.), send a message to the `ask-organizational-logistics` channel. There’s a good chance someone else has the same question, and this lets anyone on our team respond. You can also message any of the team members directly if necessary.
 
 ## Food
 
-We’ll be providing all meals and snacks throughout the event, so don’t
-worry about bringing food (unless you love very specific snacks). If you
-have dietary restrictions, all the food should be clearly labelled and
-there should be options for everyone. If something isn’t labelled or you
-have any other questions, please let us know.
-
-## Sleeping
-
-Hackathons have a reputation for uninterrupted work with little sleep,
-but it’s important that you have energy for the entire event and don’t
-burn out. You *should* take some time to get a decent night’s sleep.
-
-At Uncommon Hacks, we’ll have a large room for
-sleeping. We’ll also have earplugs (highly recommended), and would
-recommend you bring a sleeping bag and/or blanket.
+We’ll be providing all meals and snacks throughout the event, so don’t worry about bringing food (unless you love very specific snacks). If you have dietary restrictions, all the food should be clearly labeled and there should be options for everyone. If something isn’t labeled or you have any other questions, please let us know.
 
 ## Finishing your Project
 
-When you’re almost done with your project, make sure to finalize your
-submission on Devpost and click submit before the deadline (12pm on
-Sunday)! Devpost will be the way we look and submit projects, so it is key that you register for a team otherwise your project will not be judged. You can select which of the theme and sponsor prizes you want
-your project to be reviewed for.
+When you’re almost done with your project, make sure to finalize your submission on Devpost and click submit before the deadline (2pm on Sunday)! Devpost will be the way we look and submit projects, so it is key that you register for a team otherwise your project will not be judged. You can select which of the theme and sponsor prizes you want your project to be reviewed for.
 
-When time is up, you must stop hacking. However, you’re allowed to debug
-and make small fixes to their programs if necessary, e.g. if during
-demoing your hack you find a bug that breaks your application and the
-fix is only a few lines of code, it's fine to fix that.
+When time is up, you must stop hacking. However, you’re allowed to debug and make small fixes to their programs if necessary, e.g. if during demoing your hack you find a bug that breaks your application and the fix is only a few lines of code, it's fine to fix that.
 
 ## Demos and Presentations
 
 ### The Expo
 
-After hacking has ended and a short break for lunch, the main room will
-be set up for demos in a science-fair style expo. We’ll use the Devpost
-submissions to assign each group to a table, and announce the table
-assignments when they are determined. Your group will be given a table
-number, and there will be some time for judges and other participants to
-walk around and see your projects. Even if your project isn’t fully
-working or you didn’t finish it, you should still present! People like
-hearing about what you tried to do, what challenges you faced, what
-technology you used, and what you learned.
-
-We will have a number of judges who will be going around and asking
-about your projects. They will be using a judging system called
-[Gavel](http://www.anishathalye.com/2016/09/19/gavel-an-expo-judging-system/)
-(which was built by the HackMIT team) on their phones to rank the
-projects. Using fancy math, Gravel aggregates all the judges’ responses
-and determines a ranking, which is used to determine the top projects.
-Themed prizes will be judged separately, and sponsor prizes will be
-judged by the sponsors, respectively.
+After hacking has ended and a short break for lunch, the main room will be set up for demos in a science-fair style expo. We’ll use the Devpost submissions to assign each group to a table, and announce the table assignments when they are determined. Your group will be given a table number, and there will be some time for judges and other participants to walk around and see your projects. The twist this year is that all of this will happen virtually over Gather, but we still encourage you to come in-person. There won't be any judges at Crerar, but you will share the space with a lot of other teams (and will get a chance to lunch on some excellent Mexican street food!) Even if your project isn’t fully working or you didn’t finish it, you should still present! People like hearing about what you tried to do, what challenges you faced, what technology you used, and what you learned.
 
 ### Final Presentations and Awards
 
@@ -288,7 +193,7 @@ Once you have an idea for a project, you’re going to figure out how to build i
 
 # About This Guide
 
-Written by Ben Weinshel and Juliette Hainline, Uncommon Hacks
+Written by Ben Weinshel, Juliette Hainline, and Anton Outkine from Uncommon Hacks
 
 This is a living document. Please email
 [celery@uncommonhacks.com](mailto:celery@uncommonhacks.com) with any
