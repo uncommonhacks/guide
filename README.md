@@ -1,3 +1,4 @@
+Hunter Was Here
 We cannot wait for you to attend Uncommon Hacks April 1-3 at the Crerar Library! We hope you make friends, learn, meme out, but most importantly, have fun ᖍ(ツ)ᖌ.
 
 # Before the Hackathon
