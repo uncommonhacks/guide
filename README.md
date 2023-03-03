@@ -1,11 +1,10 @@
-Hunter Was Here
-We cannot wait for you to attend Uncommon Hacks April 1-3 at the Crerar Library! We hope you make friends, learn, meme out, but most importantly, have fun ᖍ(ツ)ᖌ.
+We cannot wait for you to attend Uncommon Hacks March 25-26 at the Polsky Exchange North! We hope you make friends, learn, meme out, but most importantly, have fun ᖍ(ツ)ᖌ.
 
 # Before the Hackathon
 
 ## What to Bring
 
-Here are some common choices of things to bring to a hackathon if you're attending in-person.
+Here are some common choices of things to bring to a hackathon:
 
 -   Computer
     -   Or any other hardware you are interested in using
@@ -16,54 +15,35 @@ Here are some common choices of things to bring to a hackathon if you're attendi
     -   Sometimes, you gotta jam out
 -   Extra space for swag
     -   You will be getting T-Shirts and other stuff, so come prepared with extra space
+-   Sleeping supplies (if you are planning on staying the night)
+    -   Sleeping bag
+    -   Toiletries
 
 ## Additional Comments
 
 If at all possible, try to arrange your schoolwork and schedule so you won’t have to be worrying about homework over the weekend. You’ll be able to get the most out of the event, and hopefully will be re-energized by taking a break from your schoolwork!
 
-# Gather
-
-This year Uncommon Hacks will operate in a hybrid manner. All UChicago students are encouraged to come in-person to the third floor of the Crerar library. All other participants will have access to our Gather platform. Gather is a virtual meeting space where you can interact with other participants, judges, and workshop hosts in a two-dimensional space (kind-of like a top-down RPG). Every in-person event will have a corresponding virtual location, and our conference cameras and AV system will provide a bridge between the two worlds. In other words -- for better or worse, we're embracing the hyperverse! (that rhymed) We understand that this is a bit of a weird format, but we believe that it's the best solution to providing a good experience for everyone involved. If you have any questions or problems, never hesitate to reach out to one of our team members over Discord!
-
 # Tenative Schedule
 
-See [uncommonhacks.com](https://hacks2022.uncommonhacks.com/) for the
+See [uncommonhacks.com](https://hacks2023.uncommonhacks.com/) for the
 latest info.
 
-**Friday, April 1st**
- * [5-6pm] CSS Still Life w/ Nick Briz
- * [6-6:30pm] Dinner (Papa John's)
- * [6:30-7:30pm] Intro to Twine Game w/ Ashlyn Sparrow
- * [7:30-8:30pm] Tech Interviewing w/ Fatima TajLocation: JCL 298; Workshop Room 1
- * [8:30-9pm] Social Time
+**Saturday, March 25th**
+* 9:00 – doors open, check-in, team formation, breakfast
+* 10:00 - opening ceremony
+* 10:30 - hacking begins
+* 12:00 - lunch
+* 6:00 - dinner
+* 9:00 - mad hatter tea party and costume contest
+* 10:00-12:00 – ‘follow the white rabbit’ scavenger hunt
 
-**Saturday, April 3rd**
- * [10:30-11am] Check-in; Swag Distribution; Sponsorship Fair with IMC Trading
- * [11-12pm] Spotify ML
- * [12-12:30pm] Lunch (Potbelly)
- * [12:30-1pm] Team Formation
- * [1-1:30pm] Opening Ceremony and Hacking Starts!
- * [2-3pm] Intro to Computational Art w/ Tiffany Funk
- * [3-4pm] Programmatic Music w/ Richard Whaling
- * [4-5pm] How Social Factors Influence Video Games w/ Kyle Nolla
- * [5-6pm] Board Game Design w/ Ash Sparrow
- * [5-6pm] Creative Coding w/ Marc Downie
- * [6-7pm] Maritime Archeology w/ Douglas Inglis
- * [6:30-7:30pm] Dinner (Panda Express)
- * [7:00-7:30pm] MLH Event: Slideshow Karaoke
- * [8:30-9:30pm] Mystery Event
-
-**SUNDAY FEBRUARY 17th**
-
-* [9:30am] Doors open
-* [10-10:30am] Breakfast (Einstein's)
-* [11-11:30am] Pitching Workshop
-* [11:30-12pm] Hacker Peer Feedback
-* [12:30-1pm] Lunch (Jarabe -- Mexican street food!)
-* [2pm] Hacking ends
-* [2:30-4pm] Project expo/judging
-* [4:30-5pm] Closing ceremony/awards
-* [5:30pm] Doors close
+**Sunday, March 26th**
+* 12:00 - midnight snack
+* 8:00 - morning meditation
+* 9:00 - breakfast
+* 10:00 - projects due, project fair
+* 11:00 - judge deliberation
+* 12:00 - awards, closing ceremony
 
 # At the Event
 
@@ -75,7 +55,7 @@ In a hackathon environment, surrounded by people who hack away, seemingly intens
 
 ## Safeness
 
-If ever at any point you should feel unsafe at the event, PLEASE come up to a team member, message us on Discord, or contact the MLH representative. We will handle the situation accordingly.
+If ever at any point you should feel unsafe at the event, PLEASE reach out to an Uncommon Hacks team member as soon as possible. We will handle the situation accordingly.
 
 ## Forming a Team
 
@@ -87,9 +67,7 @@ It’s also totally fine to work on a project by yourself.
 
 ## Deciding on an idea
 
-When you have a team, start thinking about what you might want to build. You can build basically anything you want, with the main rule being you have to build it entirely during Uncommon Hacks. This year, we also have four project tracks. Although you're not required to build for one of them, doing so will give you the chance to win one of the track prizes, and to get support from one of track-themed workshops.
-
-It can be hard to decide on an idea, especially if you’re working with teammates you’ve just met. Have fun brainstorming, and you can approach finding an idea from either the perspective of what you are interested in, or what technologies you are interested in learning. Here is some more information about each track in the next section.
+When you have a team, start thinking about what you might want to build. You can build basically anything you want, with the main rule being you have to build it entirely during Uncommon Hacks. It can be hard to decide on an idea, especially if you’re working with teammates you’ve just met. Have fun brainstorming, and you can approach finding an idea from either the perspective of what you are interested in, or what technologies you are interested in learning. There is some information on possible project idea tracks in the next section.
 
 Don’t feel like your project has to be the next big thing or something you’d use every day. **We encourage you to make something creative and fun and possibly totally useless!** What *is* important is that you have a good time building it and learn in the process.
 
@@ -135,7 +113,7 @@ Finally, if you're interested in making a visual, dynamic project, but don't thi
 
 ## Opening Ceremonies
 
-Once you’ve had some time to get settled, we’ll officially start the event with the opening ceremonies. Some of our sponsors will give a short presentation about what they do. You’ll also hear from our partner [Major League Hacking](http://mlh.io), which helps organize hackathons across the country and provides organizational support. We’ll also go over the basic rules for the event, and provide an overview of the next 24 hours!
+Once you’ve had some time to get settled, we’ll officially start the event with the opening ceremonies. We’ll also go over the basic rules for the event, and provide an overview of the next 24 hours!
 
 ## Working on your Project
 
@@ -167,7 +145,7 @@ When time is up, you must stop hacking. However, you’re allowed to debug and m
 
 ### The Expo
 
-After hacking has ended and a short break for lunch, the main room will be set up for demos in a science-fair style expo. We’ll use the Devpost submissions to assign each group to a table, and announce the table assignments when they are determined. Your group will be given a table number, and there will be some time for judges and other participants to walk around and see your projects. The twist this year is that all of this will happen virtually over Gather, but we still encourage you to come in-person. There won't be any judges at Crerar, but you will share the space with a lot of other teams (and will get a chance to lunch on some excellent Mexican street food!) Even if your project isn’t fully working or you didn’t finish it, you should still present! People like hearing about what you tried to do, what challenges you faced, what technology you used, and what you learned.
+After hacking has ended and a short break for lunch, the main room will be set up for demos in a science-fair style expo. We’ll use the Devpost submissions to assign each group to a table, and announce the table assignments when they are determined. Your group will be given a table number, and there will be some time for judges and other participants to walk around and see your projects. Even if your project isn’t fully working or you didn’t finish it, you should still present! People like hearing about what you tried to do, what challenges you faced, what technology you used, and what you learned.
 
 ### Final Presentations and Awards
 
@@ -179,7 +157,6 @@ After the expo, we'll have some of the top projects present, and then will give 
 
 - [Hackathons are for
 beginners](https://medium.com/tfogo/hackathons-are-for-beginners-77a9c9c0e000)
-- [MLH’s General FAQ](http://mlh.io/faq)
 - [4 Things You Should Do To Prepare for A
 Hackathon](http://blog.onemonthrails.com/4-things-you-can-do-to-prepare-for-your-first-hackathon/)
 - [Hackathons aren’t about the
